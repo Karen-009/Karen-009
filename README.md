@@ -31,9 +31,6 @@ Java application demonstrating object-oriented design principles and design patt
 ### Embedded Systems Labs
 Coursework and exercises focused on embedded programming and hardware interaction.
 
-### Networking Projects
-Projects related to networking concepts, protocols, and systems.
-
 ---
 
 ## Technologies
