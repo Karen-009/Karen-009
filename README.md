@@ -1,4 +1,4 @@
-# Hi, I'm Karen currentliy enrolled in Master of Science - Information technology Student at KTH.
+# Hi, I'm Karen currently enrolled in Master of Science - Information technology Student at KTH.
 
 I’m interested in:
 - Software Engineering
